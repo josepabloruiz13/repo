@@ -43,6 +43,10 @@ Origen: el 7 nov 2026 se creó la campaña "SwiftMart - WhatsApp - Nov 2026" con
    - mejoras automáticas de Advantage+ que cambian imagen o texto: apagadas (retoques visuales, superposiciones, mejoras en el texto). "Comentarios relevantes" puede quedar encendido.
 4. Pedirle que abra la Vista previa del anuncio en el Administrador de anuncios (Facebook e Instagram) antes de encenderlo. Si la vista previa dice "Please add an image to your ad" o muestra advertencias, no está listo.
 5. Si algo de lo anterior no se puede verificar, decirlo claramente; nunca darlo por bueno.
+6. Formato que funciona con Adspirer: anuncio a sitio web (objetivo Tráfico), destino https://swiftpay.one/precios, botón SIGN_UP. Adspirer NO permite el botón "Enviar mensaje" (Messenger/Instagram) y el WhatsApp del bot (Twilio, +506 6180 1322) está en otro portfolio comercial ("Swiftpay" verificado) sin conexión a la página: no usar enlaces wa.me como destino (Meta los rechaza).
+7. Cuota de Adspirer: 15 llamadas al mes (se renueva el día 7). Usar las mínimas; agotada el 10 nov 2026.
+
+Estado al 10 nov 2026: campaña "SwiftMart - WhatsApp - Nov 2026" (120248461830200788). Anuncio activo: "SwiftMart - Registro web - Nov 2026" (120248506335010788) en el conjunto original 120248461830290788 (₡20.000 total, hasta 5 dic). Anuncio viejo con wa.me pausado (120248461832000788). Conjunto "Ad Set - Copia" (120248506167120788) pausado y sin anuncios.
 
 ## Informe de cada lunes
 
