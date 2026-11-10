@@ -46,7 +46,7 @@ Origen: el 7 nov 2026 se creó la campaña "SwiftMart - WhatsApp - Nov 2026" con
 6. Formato que funciona con Adspirer: anuncio a sitio web (objetivo Tráfico), destino https://swiftpay.one/precios, botón SIGN_UP. Adspirer NO permite el botón "Enviar mensaje" (Messenger/Instagram) y el WhatsApp del bot (Twilio, +506 6180 1322) está en otro portfolio comercial ("Swiftpay" verificado) sin conexión a la página: no usar enlaces wa.me como destino (Meta los rechaza).
 7. Cuota de Adspirer: 15 llamadas al mes (se renueva el día 7). Usar las mínimas; agotada el 10 nov 2026.
 
-Estado al 10 nov 2026: campaña "SwiftMart - WhatsApp - Nov 2026" (120248461830200788). Anuncio activo: "SwiftMart - Registro web - Nov 2026" (120248506335010788) en el conjunto original 120248461830290788 (₡20.000 total, hasta 5 dic). Anuncio viejo con wa.me pausado (120248461832000788). Conjunto "Ad Set - Copia" (120248506167120788) pausado y sin anuncios.
+Estado al 10 nov 2026 (15:40): campaña nueva "SwiftMart - Registro - Nov 2026" (120248508043310788), creada a mano por José Pablo. Objetivo Tráfico, presupuesto de campaña ₡20.000 total, del 10 al 30 nov. Conjunto 120248508043300788: Costa Rica, 25-60, Pequeños empresarios + Small business. Anuncio 120248508043290788: imagen "¿Tienes un negocio?", destino https://swiftpay.one/precios, botón Registrarte. Publicado y en revisión de Meta. La campaña anterior "SwiftMart - WhatsApp - Nov 2026" (120248461830200788) dejó de aparecer en el Administrador de anuncios; no se sabe si fue eliminada.
 
 ## Informe de cada lunes
 
