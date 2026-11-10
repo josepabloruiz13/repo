@@ -29,6 +29,23 @@ Hashtags base: #SwiftMart #SwiftPay #PuntoDeVenta #PymesCR #EmprendedoresCR #Cos
 - No publicar nada para el mismo día: programar siempre con al menos 3 días de margen.
 - Si Metricool o GitHub fallan, no reintentar en bucle: avisar y detenerse.
 
+## Anuncios pagados (Meta Ads)
+
+Origen: el 7 nov 2026 se creó la campaña "SwiftMart - WhatsApp - Nov 2026" con un anuncio SIN imagen (la imagen se subió a la cuenta pero no quedó conectada al anuncio) y se dio por lista sin revisar la vista previa. José Pablo lo corrigió a mano el 10 nov. Estas reglas existen para que no se repita.
+
+1. Solo se crean o cambian anuncios pagados cuando José Pablo lo pide explícitamente en una conversación. Las tareas programadas nunca crean, activan, pausan ni cambian anuncios ni presupuestos.
+2. Todo anuncio nuevo se deja PAUSADO (campaña, conjunto y anuncio). Lo enciende José Pablo después de ver la vista previa.
+3. Antes de decir que un anuncio está listo, verificar en la cuenta de Meta (Adspirer, solo lectura) y confirmarle por escrito, punto por punto:
+   - el anuncio tiene imagen o video conectado (no basta con haberlo subido a la cuenta);
+   - texto principal, título y número de WhatsApp (+506 6180 1322) correctos;
+   - presupuesto total y fechas de inicio y fin;
+   - a quién se muestra (país, edades, intereses);
+   - mejoras automáticas de Advantage+ que cambian imagen o texto: apagadas (retoques visuales, superposiciones, mejoras en el texto). "Comentarios relevantes" puede quedar encendido.
+4. Pedirle que abra la Vista previa del anuncio en el Administrador de anuncios (Facebook e Instagram) antes de encenderlo. Si la vista previa dice "Please add an image to your ad" o muestra advertencias, no está listo.
+5. Si algo de lo anterior no se puede verificar, decirlo claramente; nunca darlo por bueno.
+
 ## Informe de cada lunes
 
 Con las herramientas de analítica de Metricool (Facebook e Instagram, últimos 7 días): alcance, interacciones, seguidores nuevos y la mejor publicación. Comparar con la semana anterior y dar 1 o 2 recomendaciones concretas para las próximas piezas. Enviar el resumen a José Pablo.
+
+Además, revisión de anuncios pagados (solo lectura, sin cambiar nada): con Adspirer (`meta_ads_read`, cuenta 357578211765215) listar las campañas activas o en revisión y, para cada una, informar: estado (activa, en revisión, rechazada, pausada), monto gastado y presupuesto restante, resultados (clics a WhatsApp) y costo por resultado, y si el anuncio tiene imagen o video. Avisar de inmediato si hay un anuncio sin imagen, rechazado o con advertencias. Usar el mínimo de llamadas (la cuota de Adspirer es limitada).
