@@ -13,9 +13,9 @@ Lunes, miércoles y viernes a las 12:00 m. en Facebook + Instagram. Marcar `[x]`
 - [x] Vie 20: Imagen + historia factura electrónica
 
 ## Semana 3 (23–27 nov 2026)
-- [ ] Lun 23: Carrusel (3) programa de lealtad: puntos o sellos, tarjeta en Wallet, "el décimo café es gratis"
-- [ ] Mié 25: Reel 15 s control en caja: descuento máximo, PIN de supervisor, nunca bajo costo sin autorización
-- [ ] Vie 27: Imagen tiendas, ferreterías y farmacias: combos, ofertas con fecha, precios por horario
+- [x] Lun 23: Carrusel (3) programa de lealtad: puntos o sellos, tarjeta en Wallet, "el décimo café es gratis"
+- [x] Mié 25: Reel 15 s control en caja: descuento máximo, PIN de supervisor, nunca bajo costo sin autorización
+- [x] Vie 27: Imagen tiendas, ferreterías y farmacias: combos, ofertas con fecha, precios por horario
 
 ## Semana 4 (30 nov – 4 dic 2026)
 - [ ] Lun 30: Carrusel (3) sucursales y equipo: casa matriz ve todo, permisos por rol
