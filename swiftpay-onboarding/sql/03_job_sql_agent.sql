@@ -27,7 +27,7 @@ EXEC msdb.dbo.sp_add_jobstep
     @step_name = N'Ejecutar SwiftPay.Onboarding',
     @subsystem = N'CmdExec',
     @command = @cmd,
-    @success_code = 0,
+    @cmdexec_success_code = 0,
     @retry_attempts = 0;   -- sin reintentos: el programa reintenta en la siguiente ejecución
 
 EXEC msdb.dbo.sp_add_schedule
