@@ -18,9 +18,9 @@ Lunes, miércoles y viernes a las 12:00 m. en Facebook + Instagram. Marcar `[x]`
 - [x] Vie 27: Imagen tiendas, ferreterías y farmacias: combos, ofertas con fecha, precios por horario
 
 ## Semana 4 (30 nov – 4 dic 2026)
-- [ ] Lun 30: Carrusel (3) sucursales y equipo: casa matriz ve todo, permisos por rol
-- [ ] Mié 2: Reel 20 s cómo empezar: registro en minutos, eliges funciones, 30 días gratis sin tarjeta
-- [ ] Vie 4: Imagen diciembre: caja ágil, cierres por turno, reportes en tiempo real
+- [x] Lun 30: Carrusel (3) sucursales y equipo: casa matriz ve todo, permisos por rol
+- [x] Mié 2: Reel 20 s cómo empezar: registro en minutos, eliges funciones, 30 días gratis sin tarjeta
+- [x] Vie 4: Imagen diciembre: caja ágil (escaneo o búsqueda por nombre), cierre de caja por turno, reportes de ventas (sin "tiempo real": no está en la base)
 
 ## Semanas siguientes
 Proponer temas nuevos con la base de conocimiento (SwiftMart primero; luego SwiftClick, SwiftBotón, POS, SwiftRent, SwiftMove), sin repetir.
