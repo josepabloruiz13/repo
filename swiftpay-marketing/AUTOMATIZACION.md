@@ -5,7 +5,7 @@ Instrucciones para la tarea programada de cada jueves. Dueño: José Pablo (Swif
 ## Qué hacer cada jueves
 
 1. Leer `base_conocimiento.md`. Es la ÚNICA fuente de datos (precios, funciones, plazos). Nunca inventar datos.
-2. Ver en `calendario.md` qué toca la semana siguiente (lunes, miércoles y viernes). Si el calendario ya no tiene esa semana, proponer 3 temas nuevos de SwiftMart con la base de conocimiento, sin repetir temas de `publicadas/`, y agregarlos a `calendario.md`.
+2. Ver en `calendario.md` qué toca la semana siguiente (lunes, miércoles y viernes). Si el calendario ya no tiene esa semana, proponer 3 temas nuevos con la base de conocimiento, sin repetir temas de `publicadas/`, y agregarlos a `calendario.md`. Rotación semanal (desde el 7 dic 2026): lunes SwiftMart; miércoles un producto de cobro con tarjeta (SwiftGo, POS, SwiftClick o SwiftCheckout, rotando); viernes SwiftRent o SwiftMove (alternando).
 3. Diseñar las piezas con `herramientas/lib.py` (ver `herramientas/semana2.py` como ejemplo): mismo estilo siempre.
    - Formatos: publicación 1080×1350 (4:5), carrusel de 3 a 4 láminas 1080×1350, reel o historia 1080×1920.
    - Reels: generar 5 o 6 escenas PNG acumulativas y unirlas con ffmpeg `xfade` (fade 0,35 s, unos 3 s por escena, `-preset veryfast -crf 20 -pix_fmt yuv420p -movflags +faststart`).
@@ -19,8 +19,11 @@ Instrucciones para la tarea programada de cada jueves. Dueño: José Pablo (Swif
    - `instagramData.isAiGenerated = true` solo si la pieza usa `foto_cafe.jpg`, `foto_restaurante.jpg` o `ilus_swiftmart.jpg` (generadas con IA).
 6. Avisar a José Pablo con un resumen: fecha, tema y enlace de Metricool de cada publicación, y las imágenes. Si algo falló, decirlo claramente.
 
-Cierre fijo de cada texto: "Pruébalo 30 días gratis, sin tarjeta. Escríbenos al WhatsApp +506 6180 1322."
-Hashtags base: #SwiftMart #SwiftPay #PuntoDeVenta #PymesCR #EmprendedoresCR #CostaRica (+1 o 2 del tema).
+Cierre fijo de cada texto, según el producto (decidido por José Pablo el 26 nov 2026):
+- SwiftMart, SwiftRent y SwiftMove (suscripción, con prueba): "Pruébalo 30 días gratis, sin tarjeta. Escríbenos al WhatsApp +506 6180 1322."
+- POS, SwiftClick, SwiftCheckout y SwiftGo (cobro con tarjeta, sin prueba gratis): "Afíliate en línea en swiftpay.one o escríbenos al WhatsApp +506 6180 1322." Nunca prometer prueba gratis en estos productos.
+- En las imágenes de esos productos, la píldora amarilla no dice "30 días gratis": usar por ejemplo "Afíliate en swiftpay.one".
+Hashtags base: #SwiftPay #PymesCR #EmprendedoresCR #CostaRica + el del producto (#SwiftMart, #SwiftGo, #SwiftClick, #SwiftCheckout, #SwiftPOS, #SwiftRent o #SwiftMove) + 1 o 2 del tema (por ejemplo #PuntoDeVenta en SwiftMart, #CobrosEnLinea en SwiftGo).
 
 ## Reglas
 
