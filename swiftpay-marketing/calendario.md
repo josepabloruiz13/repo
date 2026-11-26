@@ -23,9 +23,9 @@ Lunes, miércoles y viernes a las 12:00 m. en Facebook + Instagram. Marcar `[x]`
 - [x] Vie 4: Imagen diciembre: caja ágil (escaneo o búsqueda por nombre), cierre de caja por turno, reportes de ventas (sin "tiempo real": no está en la base)
 
 ## Semana 5 (7–11 dic 2026) · temas propuestos el 26 nov con la rotación nueva
-- [ ] Lun 7: SwiftMart · Imagen precios actualizados: Retail e inventario US$8 por usuario + Facturación electrónica US$2 + Contabilidad US$6 + Planes de lealtad US$2 (corrige los precios viejos de las piezas del 16 y 23 nov)
-- [ ] Mié 9: SwiftGo · Carrusel (4) presentación: cobra sin perseguir (recordatorios y mora), portal y enlace de pago con tu marca, cobro automático, planes desde USD 8 al mes
-- [ ] Vie 11: SwiftRent · Imagen: renta, cobra y controla tu negocio de alquiler desde una sola app; US$3 por usuario al mes; 30 días gratis, sin tarjeta
+- [x] Lun 7: SwiftMart · Imagen precios actualizados: Retail e inventario US$8 por usuario + Facturación electrónica US$2 + Contabilidad US$6 + Planes de lealtad US$2 (corrige los precios viejos de las piezas del 16 y 23 nov)
+- [x] Mié 9: SwiftGo · Carrusel (4) presentación: cobra sin perseguir (recordatorios y mora), portal y enlace de pago con tu marca, cobro automático, planes desde USD 8 al mes
+- [x] Vie 11: SwiftRent · Imagen: renta, cobra y controla tu negocio de alquiler desde una sola app; US$3 por usuario al mes; 30 días gratis, sin tarjeta
 
 ## Semanas siguientes
 Rotación (decidida por José Pablo el 26 nov 2026): lunes SwiftMart; miércoles un producto de cobro con tarjeta (SwiftGo, POS, SwiftClick o SwiftCheckout, rotando); viernes SwiftRent o SwiftMove (alternando). Proponer temas con la base de conocimiento, sin repetir. Ojo con el cierre de cada producto (ver AUTOMATIZACION.md).
