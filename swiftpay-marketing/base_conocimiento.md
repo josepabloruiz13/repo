@@ -2,7 +2,7 @@
 
 Única fuente de datos para textos de publicaciones. No afirmar nada que no esté aquí.
 
-Actualizado el 26 nov 2026 con la lista de precios, capturas de swiftpay.one, el documento "SwiftGo: explicación del producto para ventas" (24 nov 2026) y el video demo de SwiftGo que compartió José Pablo. Estos precios reemplazan a los anteriores.
+Actualizado el 26 nov 2026 con la lista de precios, capturas de swiftpay.one, el documento "SwiftGo: explicación del producto para ventas" (24 nov 2026) y el video demo de SwiftGo que compartió José Pablo. Estos son los precios vigentes. José Pablo aclaró que la tarifa de SwiftMart no cambió: nunca anunciar "nuevos precios" ni "precios actualizados" de SwiftMart.
 
 ## Tono
 - Trate al cliente de "usted", con un tono cordial, cercano y profesional, propio de Costa Rica.

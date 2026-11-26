@@ -1,4 +1,4 @@
-"""Semana 5 (7-11 dic 2026): SwiftMart precios nuevos (imagen), SwiftGo presentación (carrusel 4), SwiftRent (imagen)."""
+"""Semana 5 (7-11 dic 2026): SwiftMart precios (imagen), SwiftGo presentación (carrusel 4), SwiftRent (imagen)."""
 import sys
 sys.path.insert(0, __file__.rsplit("/", 1)[0])
 from lib import *
@@ -22,9 +22,9 @@ def precio(icon, nombre, detalle, precio, unidad, incl=False):
 P = {}
 
 # ---------- Lunes 7: SwiftMart precios actualizados ----------
-P["2026-12-07_precios_swiftmart.png"] = (1080, 1350, page(1080, 1350, None, f"""
+P["2026-12-07_cuanto_cuesta_swiftmart.png"] = (1080, 1350, page(1080, 1350, None, f"""
 <div class="col" style="top:60px">{logo_pill()}
- <div class="label" style="font-size:52px;margin-top:6px">Nuevos precios<br>de SwiftMart</div>
+ <div class="label" style="font-size:52px;margin-top:6px">¿Cuánto cuesta<br>SwiftMart?</div>
  <div class="box" style="font-size:36px">Pagas <b>solo por lo que usas</b></div></div>
 <div class="col" style="top:540px;gap:20px">
  {precio("store","Retail e inventario","Punto de venta, caja e inventario","US$8","por usuario al mes",True)}

@@ -23,7 +23,7 @@ Lunes, miércoles y viernes a las 12:00 m. en Facebook + Instagram. Marcar `[x]`
 - [x] Vie 4: Imagen diciembre: caja ágil (escaneo o búsqueda por nombre), cierre de caja por turno, reportes de ventas (sin "tiempo real": no está en la base)
 
 ## Semana 5 (7–11 dic 2026) · temas propuestos el 26 nov con la rotación nueva
-- [x] Lun 7: SwiftMart · Imagen precios actualizados: Retail e inventario US$8 por usuario + Facturación electrónica US$2 + Contabilidad US$6 + Planes de lealtad US$2 (corrige los precios viejos de las piezas del 16 y 23 nov)
+- [x] Lun 7: SwiftMart · Imagen "¿Cuánto cuesta SwiftMart?": Retail e inventario US$8 por usuario + Facturación electrónica US$2 + Contabilidad US$6 + Planes de lealtad US$2 (no decir "nuevos precios": la tarifa no cambió)
 - [x] Mié 9: SwiftGo · Carrusel (4) presentación: cobra sin perseguir (recordatorios y mora), portal y enlace de pago con tu marca, cobro automático, planes desde USD 8 al mes
 - [x] Vie 11: SwiftRent · Imagen: renta, cobra y controla tu negocio de alquiler desde una sola app; US$3 por usuario al mes; 30 días gratis, sin tarjeta
 
